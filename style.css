@@ -1,0 +1,108 @@
+body{
+    background-color: gainsboro;
+}
+img{
+   width: 150px;
+    height: 150px;
+}
+.img1{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border: 10px;
+    border-color: yellow;
+    border-style:dotted;
+    border-radius: 90px;
+}
+.img2{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border: 10px;
+    border-color: red;
+    border-style:double;
+    border-radius: 100px;
+}
+.img3{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border: 10px;
+    border-color: black;
+    border-style:double;
+    border-radius: 120px;
+}
+.img4{
+    width: 200px;
+    height: 200px;
+    border-radius: 170px;
+}
+.img5:hover{
+    width: 80px;
+    height: 80px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    border-radius: 190px;
+    box-shadow: 20px 20px 30px black;
+}
+.img6:hover{
+    width: 80px;
+    height: 120px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    border-radius: 190px;
+    box-shadow: 20px 20px 30px red;
+}
+.img7:hover{
+    width: 150px;
+    height: 150px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    border-radius: 100px;
+    box-shadow: 20px 20px 30px green;}
+h3{
+    color: black;
+    font-size: 30px;
+    font-style:italic;
+}
+h4{
+    color: white;
+    font-size: 30px;
+    font-style: italic;
+}
+h5{
+    color: black;
+    font-size: 30px;
+    font-style: italic;
+}
+h6{
+    color: black;
+    font-size: 30px;
+    font-style: italic;
+}
+h7{
+    color: black;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.img8:hover{
+    width: 150px;
+    height: 150px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    border-radius: 100px;
+    box-shadow: 20px 20px 30px yellow;}
+.holder{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;}
+.img9{
+     width: 90%;
+    border: solid 4px red;
+    margin: 10px;
+    border-radius: 10px;
+}
+button{
+ font-size: 10px;
+}
